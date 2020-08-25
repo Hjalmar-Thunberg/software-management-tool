@@ -23,7 +23,7 @@ Software tool to manage a software project.
 [Role schedule](https://docs.google.com/spreadsheets/d/11prYMzwm3u-r01q-JYTA9KiewqtteWdSsmUbRfXNwww/edit#gid=1063704)
 # Authors
 * Altug Altetmek
-* Christian O'Neil
+* Christian O'Neill
 * Clementne Jensen
 * Hjalmar Thunberg
 * Hugo Hempel
